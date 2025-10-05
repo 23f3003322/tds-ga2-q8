@@ -1,10 +1,8 @@
 ---
-title: Ga2 980f12
-emoji: 🐢
-colorFrom: red
-colorTo: green
+title: My FastAPI Container API
 sdk: docker
-pinned: false
+app_port: 7118
+description: deployment-ready-ga2-980f12
 ---
-
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# My FastAPI container API
+This Space hosts a FastAPI app in a Docker container.
